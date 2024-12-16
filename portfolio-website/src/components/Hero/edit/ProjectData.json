@@ -23,7 +23,7 @@
   "Guess the player Web Game": [
     "/DevIcon.png",
     "Code",
-    "",
+    "/projects",
     "Jan 2024 – Feb 2024",
     [
       "Built a web application that asks the user to guess the player using data scraped from the internet using modules like Beautiful soup 4 and Pandas.",
@@ -44,7 +44,7 @@
   "League of Learning": [
     "/FileIcon.png",
     "Code",
-    "",
+    "/projects",
     "Jun 2020 – Jul 2020",
     [
       "Self-learnt, designed, and coded an educational game using Unreal Engine and Blender",

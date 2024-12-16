@@ -6,8 +6,8 @@ import { MediaQueryContext } from '@providers/MediaQueryProvider';
 
 export const HomeHero = () => {
   const [typeEffect] = useTypewriter({
-    words: ['Full Stack developer', 'AI Engineer', 'Data Engineer', 'Cybersecurity Enthusiast'],
-    loop:{},
+    words: ['Full Stack Developer', 'LLM Engineer', 'Data Engineer', 'Cybersecurity Enthusiast'],
+    loop: true,
     typeSpeed: 100,
     deleteSpeed: 40,
   })

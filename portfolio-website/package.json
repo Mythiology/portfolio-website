@@ -1,11 +1,11 @@
 {
   "name": "frontend-boilerplate",
   "version": "0.1.0",
-  "homepage": "https://mythiology.github.io/portfolio",
+  "homepage": "https://mythiology.github.io/portfoliowebsite",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
@@ -26,7 +26,7 @@
     "date-fns": "^3.6.0",
     "next": "^14.2.20",
     "next-intl": "^3.25.3",
-    "react": "^18",
+    "react": "^18.3.1",
     "react-dom": "^18",
     "react-hook-form": "^7.48.2",
     "react-simple-typewriter": "^5.0.1",
