@@ -11,6 +11,8 @@ import projectData from './edit/ProjectData.json';
 interface ProjectItemProps {
   src: string;
   alt: string;
+  url: string;
+  date: string;
   title: string;
   description: string[];
   centerIcon: boolean;
