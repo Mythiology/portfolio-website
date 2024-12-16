@@ -1,0 +1,20 @@
+@font-face {
+    font-family: VictorMono;
+    src: local('VictorMono'), url('../fonts/VictorMono-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: VictorMonoLight;
+    src: local('VictorMonoLight'), url('../fonts/VictorMono-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: VictorMonoBold;
+    src: local('VictorMonoBold'), url('../fonts/VictorMono-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}

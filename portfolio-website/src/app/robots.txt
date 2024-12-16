@@ -1,0 +1,3 @@
+User-Agent: *
+Allow: /
+Sitemap: https://himari.sg/sitemap.xml

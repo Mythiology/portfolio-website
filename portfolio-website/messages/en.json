@@ -1,0 +1,29 @@
+{
+  "Metadata": {
+    "Index": {
+      "title": "Home - Portfolio Website.",
+      "description": "Welcome to my portfolio page!",
+      "keywords": "Portfolio, software engineer, web development, frontend engineer, backend engineer, cybersecurity, tech"
+    },
+    "About": {
+      "title": "About - Portfolio Website.",
+      "description": "Learn more about who I am and what I do.",
+      "keywords": "Portfolio, software engineer, web development, frontend engineer, backend engineer, cybersecurity, tech"
+    },
+    "Experience": {
+      "title": "Experience - Portfolio Website.",
+      "description": "Find out some of the cool organisations that I have been apart of.",
+      "keywords": "Portfolio, software engineer, web development, frontend engineer, backend engineer, cybersecurity, tech"
+    },
+    "Projects": {
+      "title": "Projects - Portfolio Website.",
+      "description": "Discover some of the cool projects that I did.",
+      "keywords": "Portfolio, software engineer, web development, frontend engineer, backend engineer, cybersecurity, tech"
+    },
+    "NotFound": {
+      "title": "Not Found - Portfolio Website.",
+      "description": "The page you are looking for does not exist.",
+      "keywords": "Portfolio, software engineer, web development, frontend engineer, backend engineer, cybersecurity, tech"
+    }
+  }
+}
